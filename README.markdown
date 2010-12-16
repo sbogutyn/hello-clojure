@@ -6,9 +6,9 @@ Hello World w clojure.
 
 Uruchomienie:
 
-  lein run
+    lein run
 
 Zbudowanie standalone jara:
   
-  lein uberjar
+    lein uberjar
 
