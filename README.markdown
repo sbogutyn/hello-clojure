@@ -5,8 +5,10 @@ Hello World w clojure.
 ## Usage
 
 Uruchomienie:
-lein run
+
+  lein run
 
 Zbudowanie standalone jara:
-lein uberjar
+  
+  lein uberjar
 
